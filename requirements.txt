@@ -1,0 +1,7 @@
+pyautoit
+steam
+protobuf
+google
+gevent-eventemitter
+cryptography
+
